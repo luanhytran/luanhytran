@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luanhytran)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luanhytran&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
