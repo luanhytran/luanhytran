@@ -1,13 +1,18 @@
 ### Hi there, I'm Hy 👋
 
-## I'm a Student, Developer.
 
+## github stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luanhytran&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## I'm a Student, Developer.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play soccer / running
+
+## Top use language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
