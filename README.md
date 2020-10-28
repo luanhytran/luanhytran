@@ -2,7 +2,7 @@
 
 
 ## github stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luanhytran&show_icons=true&&theme=cobalt )](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luanhytran&show_icons=true&&theme=dark  )](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm a Student, Developer.
 
